@@ -1,0 +1,21 @@
+ .text-gray {
+     color: gray;
+ }
+
+ .text-center {
+     text-align: center;
+     width: 100%;
+ }
+
+ .images-width {
+     width: 100px;
+ }
+
+ th,
+ td.text-gray {
+     text-align: left;
+ }
+
+ .text-align {
+     text-align: right;
+ }
